@@ -1,0 +1,129 @@
+2026-06-17 21:17:05,466 | INFO | Pipeline started
+2026-06-17 21:17:05,468 | INFO | Connecting to SQL Server
+2026-06-17 21:17:07,350 | INFO | Extracting weather data from API
+2026-06-17 21:18:08,682 | INFO | Pipeline started
+2026-06-17 21:18:08,684 | INFO | Connecting to SQL Server
+2026-06-17 21:18:08,874 | INFO | Extracting weather data from API
+2026-06-17 21:18:09,767 | INFO | 9 records extracted
+2026-06-17 21:18:09,773 | INFO | Starting transformation
+2026-06-17 21:18:09,799 | INFO | Transformation completed
+2026-06-17 21:18:09,858 | INFO | Last loaded timestamp: 2026-06-20 23:00:00
+2026-06-17 21:26:23,033 | INFO | Pipeline started
+2026-06-17 21:26:23,035 | INFO | Connecting to SQL Server
+2026-06-17 21:26:23,300 | INFO | Extracting weather data from API
+2026-06-17 21:26:24,431 | INFO | 9 records extracted
+2026-06-17 21:26:24,436 | INFO | Starting transformation
+2026-06-17 21:26:24,459 | INFO | Transformation completed
+2026-06-17 21:26:24,571 | INFO | Last loaded timestamp: 2026-06-20 23:00:00
+2026-06-17 21:26:24,579 | INFO | New records identified: 72
+2026-06-17 21:26:24,894 | INFO | Pipeline completed successfully
+2026-06-17 21:32:30,244 | INFO | Pipeline started
+2026-06-17 21:32:30,245 | INFO | Connecting to SQL Server
+2026-06-17 21:32:30,822 | INFO | Extracting weather data from API
+2026-06-17 21:32:31,577 | INFO | 9 records extracted
+2026-06-17 21:32:31,580 | INFO | Starting transformation
+2026-06-17 21:32:31,600 | INFO | Transformation completed
+2026-06-17 21:32:31,655 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 21:32:31,661 | INFO | New records identified: 0
+2026-06-17 21:32:31,726 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 21:32:31,726 | INFO | [33mPress CTRL+C to quit[0m
+2026-06-17 21:32:31,753 | INFO |  * Restarting with watchdog (windowsapi)
+2026-06-17 21:32:34,938 | INFO | Pipeline started
+2026-06-17 21:32:34,938 | INFO | Connecting to SQL Server
+2026-06-17 21:32:35,137 | INFO | Extracting weather data from API
+2026-06-17 21:32:36,099 | INFO | 9 records extracted
+2026-06-17 21:32:36,102 | INFO | Starting transformation
+2026-06-17 21:32:36,108 | INFO | Transformation completed
+2026-06-17 21:32:36,118 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 21:32:36,120 | INFO | New records identified: 0
+2026-06-17 21:32:36,160 | WARNING |  * Debugger is active!
+2026-06-17 21:32:36,169 | INFO |  * Debugger PIN: 544-880-962
+2026-06-17 21:33:40,683 | INFO | 127.0.0.1 - - [17/Jun/2026 21:33:40] "GET / HTTP/1.1" 200 -
+2026-06-17 21:33:42,396 | INFO | 127.0.0.1 - - [17/Jun/2026 21:33:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-06-17 21:34:09,894 | INFO |  * Detected change in 'C:\\Users\\anuj1\\OneDrive\\Documents\\etl project\\api.py', reloading
+2026-06-17 21:34:09,896 | INFO |  * Detected change in 'C:\\Users\\anuj1\\OneDrive\\Documents\\etl project\\api.py', reloading
+2026-06-17 21:34:11,074 | INFO |  * Restarting with watchdog (windowsapi)
+2026-06-17 21:34:14,200 | INFO | Pipeline started
+2026-06-17 21:34:14,200 | INFO | Connecting to SQL Server
+2026-06-17 21:34:14,325 | INFO | Extracting weather data from API
+2026-06-17 21:34:15,222 | INFO | 9 records extracted
+2026-06-17 21:34:15,223 | INFO | Starting transformation
+2026-06-17 21:34:15,229 | INFO | Transformation completed
+2026-06-17 21:34:15,234 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 21:34:15,236 | INFO | New records identified: 0
+2026-06-17 21:34:15,277 | WARNING |  * Debugger is active!
+2026-06-17 21:34:15,283 | INFO |  * Debugger PIN: 544-880-962
+2026-06-17 22:02:48,929 | INFO |  * Detected change in 'C:\\Users\\anuj1\\OneDrive\\Documents\\etl project\\app.py', reloading
+2026-06-17 22:02:48,966 | INFO |  * Detected change in 'C:\\Users\\anuj1\\OneDrive\\Documents\\etl project\\app.py', reloading
+2026-06-17 22:02:51,925 | INFO |  * Restarting with watchdog (windowsapi)
+2026-06-17 22:02:56,651 | INFO | Pipeline started
+2026-06-17 22:02:56,651 | INFO | Connecting to SQL Server
+2026-06-17 22:02:57,047 | INFO | Extracting weather data from API
+2026-06-17 22:02:58,431 | INFO | 9 records extracted
+2026-06-17 22:02:58,443 | INFO | Starting transformation
+2026-06-17 22:02:58,464 | INFO | Transformation completed
+2026-06-17 22:02:58,510 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 22:02:58,517 | INFO | New records identified: 0
+2026-06-17 22:02:58,559 | WARNING |  * Debugger is active!
+2026-06-17 22:02:58,566 | INFO |  * Debugger PIN: 544-880-962
+2026-06-17 22:03:21,550 | INFO | Pipeline started
+2026-06-17 22:03:21,550 | INFO | Connecting to SQL Server
+2026-06-17 22:03:21,694 | INFO | Extracting weather data from API
+2026-06-17 22:04:57,266 | INFO | Pipeline started
+2026-06-17 22:04:57,266 | INFO | Connecting to SQL Server
+2026-06-17 22:04:57,442 | INFO | Extracting weather data from API
+2026-06-17 22:04:58,314 | INFO | 9 records extracted
+2026-06-17 22:04:58,320 | INFO | Starting transformation
+2026-06-17 22:04:58,337 | INFO | Transformation completed
+2026-06-17 22:04:58,340 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 22:04:58,346 | INFO | New records identified: 0
+2026-06-17 22:04:58,394 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 22:04:58,394 | INFO | [33mPress CTRL+C to quit[0m
+2026-06-17 22:04:58,412 | INFO |  * Restarting with watchdog (windowsapi)
+2026-06-17 22:05:00,968 | INFO | Pipeline started
+2026-06-17 22:05:00,968 | INFO | Connecting to SQL Server
+2026-06-17 22:05:01,039 | INFO | Extracting weather data from API
+2026-06-17 22:05:01,990 | INFO | 9 records extracted
+2026-06-17 22:05:02,002 | INFO | Starting transformation
+2026-06-17 22:05:02,009 | INFO | Transformation completed
+2026-06-17 22:05:02,014 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 22:05:02,016 | INFO | New records identified: 0
+2026-06-17 22:05:02,033 | WARNING |  * Debugger is active!
+2026-06-17 22:05:02,042 | INFO |  * Debugger PIN: 544-880-962
+2026-06-17 22:06:06,192 | INFO | 127.0.0.1 - - [17/Jun/2026 22:06:06] "GET / HTTP/1.1" 200 -
+2026-06-17 22:06:14,038 | INFO | 127.0.0.1 - - [17/Jun/2026 22:06:14] "GET / HTTP/1.1" 200 -
+2026-06-17 22:06:15,197 | INFO | 127.0.0.1 - - [17/Jun/2026 22:06:15] "GET / HTTP/1.1" 200 -
+2026-06-17 22:21:55,378 | INFO | Pipeline started
+2026-06-17 22:21:55,380 | INFO | Connecting to SQL Server
+2026-06-17 22:21:55,735 | INFO | Extracting weather data from API
+2026-06-17 22:22:33,611 | INFO | 9 records extracted
+2026-06-17 22:22:33,617 | INFO | Starting transformation
+2026-06-17 22:22:33,643 | INFO | Transformation completed
+2026-06-17 22:22:33,685 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 22:22:33,692 | INFO | New records identified: 0
+2026-06-17 22:22:33,775 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-06-17 22:22:33,775 | INFO | [33mPress CTRL+C to quit[0m
+2026-06-17 22:22:33,800 | INFO |  * Restarting with watchdog (windowsapi)
+2026-06-17 22:22:36,500 | INFO | Pipeline started
+2026-06-17 22:22:36,500 | INFO | Connecting to SQL Server
+2026-06-17 22:22:36,586 | INFO | Extracting weather data from API
+2026-06-17 22:22:51,009 | INFO | 9 records extracted
+2026-06-17 22:22:51,010 | INFO | Starting transformation
+2026-06-17 22:22:51,017 | INFO | Transformation completed
+2026-06-17 22:22:51,025 | INFO | Last loaded timestamp: 2026-06-23 23:00:00
+2026-06-17 22:22:51,027 | INFO | New records identified: 0
+2026-06-17 22:22:51,055 | WARNING |  * Debugger is active!
+2026-06-17 22:22:51,066 | INFO |  * Debugger PIN: 544-880-962
+2026-06-17 22:22:51,295 | INFO | 127.0.0.1 - - [17/Jun/2026 22:22:51] "GET / HTTP/1.1" 200 -
+2026-06-17 22:23:37,124 | INFO | 127.0.0.1 - - [17/Jun/2026 22:23:37] "GET / HTTP/1.1" 200 -
+2026-06-17 22:23:43,466 | INFO | Connecting to SQL Server
+2026-06-17 22:23:44,141 | INFO | 127.0.0.1 - - [17/Jun/2026 22:23:44] "GET /weather HTTP/1.1" 200 -
+2026-06-17 22:24:00,233 | INFO | Connecting to SQL Server
+2026-06-17 22:24:00,258 | INFO | 127.0.0.1 - - [17/Jun/2026 22:24:00] "GET /weather HTTP/1.1" 200 -
+2026-06-17 22:24:32,410 | INFO | Connecting to SQL Server
+2026-06-17 22:24:32,424 | INFO | 127.0.0.1 - - [17/Jun/2026 22:24:32] "GET /weather HTTP/1.1" 200 -
+2026-06-17 22:26:47,316 | INFO | Connecting to SQL Server
+2026-06-17 22:26:47,452 | INFO | 127.0.0.1 - - [17/Jun/2026 22:26:47] "GET /weather HTTP/1.1" 200 -

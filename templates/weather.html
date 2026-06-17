@@ -1,0 +1,23 @@
+<h1>Weather Dashboard</h1>
+
+<table border="1">
+
+<tr>
+    <th>Observation Time</th>
+    <th>Temperature</th>
+    <th>Wind Speed</th>
+    <th>City</th>
+</tr>
+
+{% for row in records %}
+
+<tr>
+    <td>{{ row.ObservationTime }}</td>
+    <td>{{ row.Temperature }}</td>
+    <td>{{ row.WindSpeed }}</td>
+    <td>{{ row.City }}</td>
+</tr>
+
+{% endfor %}
+
+</table>
